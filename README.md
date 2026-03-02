@@ -43,5 +43,5 @@ Through this task, I strengthened my understanding of:
 3.  Writing clean, readable, and self-documenting code for professional environments.
 
 ---
-**Author:** [Your Name]  
-**Internship Batch:** [e.g., May 2024]
+**Author:** [Harshini]  
+**Internship Batch:** [Feb - March]
